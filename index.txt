@@ -12,3 +12,6 @@
 2.3 три
 
 feature
+
+feature2
+
